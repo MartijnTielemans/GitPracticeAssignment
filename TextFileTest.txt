@@ -3,5 +3,5 @@ Hello world!
 Martijn has been added.
 Luke has been added.
 
-Machanic 1: sprinting.
+Machanic 1: Climbing.
 Machanic 2: Jumping.
