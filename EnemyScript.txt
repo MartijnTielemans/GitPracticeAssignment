@@ -1,0 +1,10 @@
+If (veryCoolVariable)
+{
+    Wahoo(speed);
+}
+
+
+void Wahoo(float speed)
+{
+    transform.translate(speed, speed, 0);
+}
